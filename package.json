@@ -1,0 +1,22 @@
+{
+  "name": "adeola-birthday",
+  "version": "1.0.0",
+  "description": "Happy birthday Adeole Oyesiji",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.16.4",
+    "workbox-cli": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Happy",
+    "birthday"
+  ],
+  "author": "Deola Adediran",
+  "license": "MIT"
+}
